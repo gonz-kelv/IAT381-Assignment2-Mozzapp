@@ -18,7 +18,7 @@ angular.module('iat381Assignment2MozzappAApp')
     // Array to store the music
     $scope.playlist = [
       {
-        "src": "../music/detroit.mp3",
+        "src": "https://soundcloud.com/deccarecords/the-lumineers-ho-hey",
         "type": "audio/mp3",
       },
       {
